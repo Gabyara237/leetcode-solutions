@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gabyara237/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Gabyara237/leetcode-solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## String
 |  |
 | ------- |
@@ -28,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gabyara237/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Gabyara237/leetcode-solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Gabyara237/leetcode-solutions/tree/master/1642-water-bottles) |
+## Array
+|  |
+| ------- |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Gabyara237/leetcode-solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
