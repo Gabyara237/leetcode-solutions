@@ -39,5 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gabyara237/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Gabyara237/leetcode-solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gabyara237/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gabyara237/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
