@@ -8,7 +8,6 @@ class Solution:
 
         result=0
         range_max= 2**31-1
-        range_min= -2**31
 
         while x!=0:
             digit= x % 10
